@@ -91,7 +91,6 @@ body {
 .product__prices {
   display: flex;
   gap: 1rem;
-  flex-wrap: wrap;
   align-items: center;
 }
 
